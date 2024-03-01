@@ -1,5 +1,5 @@
 #content {
-  width: 1000px;
+  width: 1300px;
   margin: 0 10% 0 15%;
 }
 
@@ -30,4 +30,41 @@ p.h1 {
 
 button .btn-btn-outline-success {
   color: blue;
+}
+
+.col-9 {
+  text-align: left;
+}
+
+div .news {
+  display: flex;
+  margin-bottom: 0px;
+}
+
+div .title {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: left;
+}
+
+.num {
+  padding: 1px 8px 1px 8px;
+  margin: 0px 10px 10px 0px;
+  background-color: #0080ff;
+  color: white;
+}
+
+
+a:link,
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+div .mostView {
+  margin: 20px 0px 20px 0px;
 }
