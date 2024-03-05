@@ -1,6 +1,5 @@
 #content {
-  width: 1300px;
-  margin: 0 10% 0 15%;
+  margin: 0 5% 0 5%;
 }
 
 .photo {
@@ -67,4 +66,14 @@ a:hover {
 
 div .mostView {
   margin: 20px 0px 20px 0px;
+}
+
+div .alert-secondary {
+  margin: 16px 0px 0px 0px;
+  width: 75%;
+}
+
+div .alert-warning {
+  margin: 16px 0px 0px 0px;
+  width: 75%;
 }
